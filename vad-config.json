@@ -1,0 +1,12 @@
+{
+  "name": "Vad-Cli Project",
+  "mode": "vue3",
+  "dataSource": "./src/public/queryable.ts",
+  "mixinPath": "./src/public/basic-table.ts",
+  "pageTemplate": "./src/public/template/table.vue.sample",
+  "apiTemplate": "./src/public/template/data.ts.sample",
+  "apiPath": "./src/part-tooth/api/",
+  "pagePath": "./src/part-tooth/pages/",
+  "dataPath": "./src/part-tooth/api/_json",
+  "override": {}
+}
